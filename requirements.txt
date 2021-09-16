@@ -1,0 +1,6 @@
+pandas
+numpy
+html5lib
+BeautifulSoap4
+lxml
+Flask
